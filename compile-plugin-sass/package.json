@@ -1,0 +1,17 @@
+{
+  "name": "compile-plugin-sass",
+  "version": "1.0.0",
+  "description": "编译sass文件",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sass"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "node-sass": "^4.8.3"
+  }
+}
