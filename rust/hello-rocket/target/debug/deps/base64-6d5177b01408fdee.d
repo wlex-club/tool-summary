@@ -1,0 +1,12 @@
+/Users/weiwang/Documents/useful-tools/tool-summary/rust/hello-rocket/target/debug/deps/libbase64-6d5177b01408fdee.rlib: /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/weiwang/Documents/useful-tools/tool-summary/rust/hello-rocket/target/debug/deps/base64-6d5177b01408fdee.d: /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs /Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs
+
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/lib.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/chunked_encoder.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/display.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/tables.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/mod.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/write/encoder.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/encode.rs:
+/Users/weiwang/.cargo/registry/src/github.com-1ecc6299db9ec823/base64-0.10.1/src/decode.rs:

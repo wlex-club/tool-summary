@@ -1,0 +1,8 @@
+[package]
+name = "hello-rocket"
+version = "0.1.0"
+authors = ["weiwangle <wangweile@shuidihuzhu.com>"]
+edition = "2018"
+
+[dependencies]
+iron = "*"
